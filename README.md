@@ -6,11 +6,11 @@ Here is the images my model generate:
 
 **VAE**
 
-![image](https://github.com/weifanhaha/semantic-segmentation/blob/master/images/vae.png)
+![image](https://github.com/weifanhaha/image-generation-vae-gan/blob/master/images/vae.png)
 
 **GAN**
 
-![image](https://github.com/weifanhaha/semantic-segmentation/blob/master/images/gan.png)
+![image](https://github.com/weifanhaha/image-generation-vae-gan/blob/master/images/gan.png)
 
 # Usage
 
