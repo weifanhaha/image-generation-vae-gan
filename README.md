@@ -52,12 +52,12 @@ generate image with VAE
 
 ```
 cd VAE
-python generate.py
+python generate.py --output_path ./vae.png
 ```
 
 generate image with GAN
 
 ```
 cd GAN
-python generate.py
+python generate.py --output_path ./gan.png
 ```
